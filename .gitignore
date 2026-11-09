@@ -1,0 +1,11 @@
+# Dati della competizione: non vanno nel repository (regole Kaggle), si scaricano da Kaggle
+data/
+*.zip
+*.csv
+*.parquet
+*.pkl
+
+# File di sistema / editor
+.DS_Store
+.Rhistory
+.ipynb_checkpoints/
